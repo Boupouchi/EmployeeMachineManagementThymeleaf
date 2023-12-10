@@ -2,7 +2,6 @@
 
 This project is a simple Employee Machine Management system developed using Thymeleaf and Spring Boot. It provides a web-based interface for managing employees and their associated machines.
 
-https://github.com/Boupouchi/EmployeeMachineManagementThymeleaf/assets/81436882/54048cb7-937f-40cf-b105-737f8ae88cc6
 
 ### Prerequisites
 
